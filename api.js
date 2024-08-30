@@ -1,3 +1,7 @@
+//consultar tarefa por id
+//atualizar o status da tarefa 
+
+
 //1 requires
 const express = require('express');
 const mysql = require('mysql2');
